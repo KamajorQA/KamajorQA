@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <a href="https://stepik.org/users/453801294">
   <img src=https://img.shields.io/badge/Stepik-black?style=for-the-badge alt="Stepik Badge"/>
   </a>
-  <a href=""> <!-- надо бы создать профиль на LinkedIn и добавить сюда ссылку -->
+  <a href="https://www.linkedin.com/in/KamajorQA">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
