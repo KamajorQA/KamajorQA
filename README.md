@@ -51,12 +51,16 @@
 
 ---
 
+<!--
+
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kamajorqa&theme=highcontrast&background=4d83ba)](https://git.io/streak-stats)
 
+</div>
+
+-->
+
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamajorqa&layout=compact&theme=vision-friendly-dark)
-
-</div>
 -->
